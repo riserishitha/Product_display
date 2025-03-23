@@ -1,0 +1,228 @@
+[
+    {
+      "id": 1,
+      "name": "Nike Air Max",
+      "brand": "Nike",
+      "price": 120,
+      "image": "https://via.placeholder.com/300x300?text=Nike+Air+Max",
+      "description": "A stylish and comfortable running shoe with cushioned support.",
+      "reviews": ["Great comfort!", "Perfect fit!", "Worth the price."]
+    },
+    {
+      "id": 2,
+      "name": "Adidas Ultraboost",
+      "brand": "Adidas",
+      "price": 150,
+      "image": "https://via.placeholder.com/300x300?text=Adidas+Ultraboost",
+      "description": "High-performance running shoes with responsive cushioning.",
+      "reviews": ["Amazing grip!", "Very comfortable.", "Highly recommended."]
+    },
+    {
+      "id": 3,
+      "name": "Puma RS-X",
+      "brand": "Puma",
+      "price": 100,
+      "image": "https://via.placeholder.com/300x300?text=Puma+RS-X",
+      "description": "Futuristic design with superior comfort for casual wear.",
+      "reviews": ["Stylish look!", "Comfy and lightweight.", "Nice quality."]
+    },
+    {
+      "id": 4,
+      "name": "Converse Chuck Taylor",
+      "brand": "Converse",
+      "price": 75,
+      "image": "https://via.placeholder.com/300x300?text=Converse+Chuck+Taylor",
+      "description": "Classic high-top sneakers for a vintage street-style look.",
+      "reviews": ["Timeless design!", "Super comfortable.", "Love them!"]
+    },
+    {
+      "id": 5,
+      "name": "Vans Old Skool",
+      "brand": "Vans",
+      "price": 65,
+      "image": "https://via.placeholder.com/300x300?text=Vans+Old+Skool",
+      "description": "Iconic skate shoes with durable canvas and suede upper.",
+      "reviews": ["Great for skating!", "Stylish and durable.", "Best value."]
+    },
+    {
+      "id": 6,
+      "name": "Reebok Classic Leather",
+      "brand": "Reebok",
+      "price": 85,
+      "image": "https://via.placeholder.com/300x300?text=Reebok+Classic+Leather",
+      "description": "Timeless design with soft leather upper for all-day comfort.",
+      "reviews": ["Classic and stylish!", "Very comfortable.", "Good quality."]
+    },
+    {
+      "id": 7,
+      "name": "New Balance 990",
+      "brand": "New Balance",
+      "price": 180,
+      "image": "https://via.placeholder.com/300x300?text=New+Balance+990",
+      "description": "Premium running shoes with stability and cushioning for long-distance runs.",
+      "reviews": ["Exceptional comfort!", "High durability.", "Great for running."]
+    },
+    {
+      "id": 8,
+      "name": "Under Armour HOVR",
+      "brand": "Under Armour",
+      "price": 140,
+      "image": "https://via.placeholder.com/300x300?text=Under+Armour+HOVR",
+      "description": "Performance sneakers with UA HOVR technology for energy return.",
+      "reviews": ["Lightweight and fast!", "Great performance.", "Comfortable fit."]
+    },
+    {
+      "id": 9,
+      "name": "Asics Gel-Kayano 28",
+      "brand": "Asics",
+      "price": 160,
+      "image": "https://via.placeholder.com/300x300?text=Asics+Gel-Kayano+28",
+      "description": "Stability running shoes with advanced cushioning technology.",
+      "reviews": ["Excellent support!", "Perfect for long runs.", "Great value."]
+    },
+    {
+      "id": 10,
+      "name": "Fila Disruptor II",
+      "brand": "Fila",
+      "price": 90,
+      "image": "https://via.placeholder.com/300x300?text=Fila+Disruptor+II",
+      "description": "Chunky sneakers with a bold and stylish look for street fashion.",
+      "reviews": ["Trendy design!", "Very comfy.", "Stylish and unique."]
+    },
+    {
+      "id": 11,
+      "name": "Skechers Go Walk",
+      "brand": "Skechers",
+      "price": 70,
+      "image": "https://via.placeholder.com/300x300?text=Skechers+Go+Walk",
+      "description": "Comfort walking shoes with lightweight cushioning.",
+      "reviews": ["Super comfy!", "Great for daily wear.", "Light and breathable."]
+    },
+    {
+      "id": 12,
+      "name": "Timberland 6-Inch Boot",
+      "brand": "Timberland",
+      "price": 200,
+      "image": "https://via.placeholder.com/300x300?text=Timberland+6-Inch+Boot",
+      "description": "Classic waterproof boots with rugged durability.",
+      "reviews": ["Very durable!", "Great for hiking.", "Stylish and tough."]
+    },
+    {
+      "id": 13,
+      "name": "Crocs Classic Clog",
+      "brand": "Crocs",
+      "price": 50,
+      "image": "https://via.placeholder.com/300x300?text=Crocs+Classic+Clog",
+      "description": "Iconic clogs with lightweight comfort and ventilation.",
+      "reviews": ["Perfect for summer!", "Very comfy.", "Easy to clean."]
+    },
+    {
+      "id": 14,
+      "name": "Birkenstock Arizona",
+      "brand": "Birkenstock",
+      "price": 100,
+      "image": "https://via.placeholder.com/300x300?text=Birkenstock+Arizona",
+      "description": "Classic sandals with contoured footbed for superior support.",
+      "reviews": ["Excellent arch support!", "Very durable.", "Stylish and comfy."]
+    },
+    {
+      "id": 15,
+      "name": "Columbia Hiking Boots",
+      "brand": "Columbia",
+      "price": 130,
+      "image": "https://via.placeholder.com/300x300?text=Columbia+Hiking+Boots",
+      "description": "Rugged boots designed for outdoor adventures and hiking.",
+      "reviews": ["Great for trails!", "Very durable.", "Comfortable fit."]
+    },
+    {
+        "id": 16,
+        "name": "Michael Kors Tote Bag",
+        "brand": "Michael Kors",
+        "price": 250,
+        "image": "https://via.placeholder.com/300x300?text=Michael+Kors+Tote+Bag",
+        "description": "Spacious and elegant tote bag, perfect for daily use or work.",
+        "reviews": ["Stylish and spacious!", "Great quality.", "Perfect for office."]
+      },
+      {
+        "id": 17,
+        "name": "Fossil Leather Wallet",
+        "brand": "Fossil",
+        "price": 80,
+        "image": "https://via.placeholder.com/300x300?text=Fossil+Leather+Wallet",
+        "description": "Classic leather wallet with multiple compartments and card slots.",
+        "reviews": ["Sleek design!", "Durable leather.", "Compact and stylish."]
+      },
+      {
+        "id": 18,
+        "name": "Samsonite Laptop Backpack",
+        "brand": "Samsonite",
+        "price": 120,
+        "image": "https://via.placeholder.com/300x300?text=Samsonite+Laptop+Backpack",
+        "description": "Durable laptop backpack with padded compartments and USB port.",
+        "reviews": ["Spacious and sturdy!", "Great for travel.", "Comfortable fit."]
+      },
+      {
+        "id": 19,
+        "name": "Ray-Ban Aviator Sunglasses",
+        "brand": "Ray-Ban",
+        "price": 150,
+        "image": "https://via.placeholder.com/300x300?text=Ray-Ban+Aviator+Sunglasses",
+        "description": "Classic aviator sunglasses with UV protection and sleek design.",
+        "reviews": ["Perfect fit!", "Stylish and trendy.", "Great sun protection."]
+      },
+      {
+        "id": 20,
+        "name": "Gucci Leather Belt",
+        "brand": "Gucci",
+        "price": 350,
+        "image": "https://via.placeholder.com/300x300?text=Gucci+Leather+Belt",
+        "description": "Luxury leather belt with iconic GG buckle design.",
+        "reviews": ["Premium quality!", "Looks classy.", "Great for formal wear."]
+      },
+      {
+        "id": 21,
+        "name": "Apple AirPods Pro",
+        "brand": "Apple",
+        "price": 249,
+        "image": "https://via.placeholder.com/300x300?text=Apple+AirPods+Pro",
+        "description": "Wireless earbuds with active noise cancellation and superior sound.",
+        "reviews": ["Excellent sound!", "Great noise cancellation.", "Perfect fit."]
+      },
+      {
+        "id": 22,
+        "name": "Casio G-Shock Watch",
+        "brand": "Casio",
+        "price": 180,
+        "image": "https://via.placeholder.com/300x300?text=Casio+G-Shock+Watch",
+        "description": "Durable and stylish watch with shock resistance and water resistance.",
+        "reviews": ["Rugged and stylish!", "Perfect for sports.", "Highly durable."]
+      },
+      {
+        "id": 23,
+        "name": "Herschel Supply Co. Duffle Bag",
+        "brand": "Herschel",
+        "price": 110,
+        "image": "https://via.placeholder.com/300x300?text=Herschel+Duffle+Bag",
+        "description": "Stylish duffle bag with spacious compartments for travel and gym.",
+        "reviews": ["Great for weekend trips!", "Spacious and durable.", "Stylish design."]
+      },
+      {
+        "id": 24,
+        "name": "Daniel Wellington Bracelet",
+        "brand": "Daniel Wellington",
+        "price": 75,
+        "image": "https://via.placeholder.com/300x300?text=Daniel+Wellington+Bracelet",
+        "description": "Minimalist bracelet with elegant design, perfect for everyday wear.",
+        "reviews": ["Elegant and simple!", "Great quality.", "Perfect fit."]
+      },
+      {
+        "id": 25,
+        "name": "Tumi Travel Organizer",
+        "brand": "Tumi",
+        "price": 90,
+        "image": "https://via.placeholder.com/300x300?text=Tumi+Travel+Organizer",
+        "description": "Compact and efficient travel organizer for passports and essentials.",
+        "reviews": ["Perfect for travel!", "Keeps everything organized.", "High quality."]
+      }
+  
+]
