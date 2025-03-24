@@ -7,10 +7,10 @@ import Navbar from "./components/Navbar";
 import ProductList from "./components/ProductList";
 import CartDrawer from "./components/CartDrawer";
 import About from "./components/About";
+import BarcodeScanner from "./components/BarcodeScanner";
 
 const App = () => {
   const [cartOpen, setCartOpen] = useState(false);
-
   return (
     <CartProvider>
       <div className="min-h-screen bg-gray-100">
@@ -21,6 +21,7 @@ const App = () => {
           <Route path="/" element={<ProductList />} />
           <Route path="/cart" element={<CartDrawer onClose={() => setCartOpen(false)} />} />
           <Route path="/about" element={<About />} />
+          <Route path="/barcode-scanner" element={<BarcodeScanner/>}/>
         </Routes>
       </div>
     </CartProvider>
@@ -28,3 +29,4 @@ const App = () => {
 };
 
 export default App;
+

@@ -4,7 +4,7 @@
       "name": "Nike Air Max",
       "brand": "Nike",
       "price": 120,
-      "image": "https://via.placeholder.com/300x300?text=Nike+Air+Max",
+      "image": "https://i.ebayimg.com/images/g/Ug8AAOSw4oZlkG0-/s-l1200.jpg",
       "description": "A stylish and comfortable running shoe with cushioned support.",
       "reviews": ["Great comfort!", "Perfect fit!", "Worth the price."]
     },
@@ -13,7 +13,7 @@
       "name": "Adidas Ultraboost",
       "brand": "Adidas",
       "price": 150,
-      "image": "https://via.placeholder.com/300x300?text=Adidas+Ultraboost",
+      "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/dfa07f83ea7d4c94bac5622413432f16_9366/Ultraboost_5_Shoes_White_ID8840.jpg",
       "description": "High-performance running shoes with responsive cushioning.",
       "reviews": ["Amazing grip!", "Very comfortable.", "Highly recommended."]
     },
@@ -22,7 +22,7 @@
       "name": "Puma RS-X",
       "brand": "Puma",
       "price": 100,
-      "image": "https://via.placeholder.com/300x300?text=Puma+RS-X",
+      "image": "https://images.puma.net/images/395339/01/sv01/fnd/KSA/",
       "description": "Futuristic design with superior comfort for casual wear.",
       "reviews": ["Stylish look!", "Comfy and lightweight.", "Nice quality."]
     },
@@ -31,7 +31,7 @@
       "name": "Converse Chuck Taylor",
       "brand": "Converse",
       "price": 75,
-      "image": "https://via.placeholder.com/300x300?text=Converse+Chuck+Taylor",
+      "image": "https://www.converse.in/media/catalog/product/3/j/3j233c_01.jpg?auto=webp&format=pjpg&width=640&height=800&fit=cover",
       "description": "Classic high-top sneakers for a vintage street-style look.",
       "reviews": ["Timeless design!", "Super comfortable.", "Love them!"]
     },
@@ -40,7 +40,7 @@
       "name": "Vans Old Skool",
       "brand": "Vans",
       "price": 65,
-      "image": "https://via.placeholder.com/300x300?text=Vans+Old+Skool",
+      "image": "https://i8.amplience.net/i/jpl/jd_061773_a?qlt=92",
       "description": "Iconic skate shoes with durable canvas and suede upper.",
       "reviews": ["Great for skating!", "Stylish and durable.", "Best value."]
     },
@@ -49,7 +49,7 @@
       "name": "Reebok Classic Leather",
       "brand": "Reebok",
       "price": 85,
-      "image": "https://via.placeholder.com/300x300?text=Reebok+Classic+Leather",
+      "image": "https://imagescdn.reebok.in/img/app/product/3/39625244-12877124.jpg",
       "description": "Timeless design with soft leather upper for all-day comfort.",
       "reviews": ["Classic and stylish!", "Very comfortable.", "Good quality."]
     },
@@ -58,7 +58,7 @@
       "name": "New Balance 990",
       "brand": "New Balance",
       "price": 180,
-      "image": "https://via.placeholder.com/300x300?text=New+Balance+990",
+      "image": "https://nb.scene7.com/is/image/NB/m990gy3_nb_02_i?$pdpflexf2$&wid=440&hei=440",
       "description": "Premium running shoes with stability and cushioning for long-distance runs.",
       "reviews": ["Exceptional comfort!", "High durability.", "Great for running."]
     },
@@ -67,7 +67,7 @@
       "name": "Under Armour HOVR",
       "brand": "Under Armour",
       "price": 140,
-      "image": "https://via.placeholder.com/300x300?text=Under+Armour+HOVR",
+      "image": "https://rukminim3.flixcart.com/image/850/1000/xif0q/shoe/e/l/9/-original-imahfkcstz2v7bkt.jpeg?q=90&crop=false",
       "description": "Performance sneakers with UA HOVR technology for energy return.",
       "reviews": ["Lightweight and fast!", "Great performance.", "Comfortable fit."]
     },
@@ -76,7 +76,7 @@
       "name": "Asics Gel-Kayano 28",
       "brand": "Asics",
       "price": 160,
-      "image": "https://via.placeholder.com/300x300?text=Asics+Gel-Kayano+28",
+      "image": "https://rukminim3.flixcart.com/image/850/1000/xif0q/shoe/s/v/q/-original-imahfxt5s87a4vfe.jpeg?q=90&crop=false",
       "description": "Stability running shoes with advanced cushioning technology.",
       "reviews": ["Excellent support!", "Perfect for long runs.", "Great value."]
     },
@@ -85,7 +85,7 @@
       "name": "Fila Disruptor II",
       "brand": "Fila",
       "price": 90,
-      "image": "https://via.placeholder.com/300x300?text=Fila+Disruptor+II",
+      "image": "https://i8.amplience.net/i/jpl/jd_557731_a?qlt=92&w=600&h=425&v=1&fmt=auto",
       "description": "Chunky sneakers with a bold and stylish look for street fashion.",
       "reviews": ["Trendy design!", "Very comfy.", "Stylish and unique."]
     },
@@ -94,7 +94,7 @@
       "name": "Skechers Go Walk",
       "brand": "Skechers",
       "price": 70,
-      "image": "https://via.placeholder.com/300x300?text=Skechers+Go+Walk",
+      "image": "https://www.skechers.in/on/demandware.static/-/Sites-skechers_india/default/dwc262e4b2/images/large/194428036977-1.jpg",
       "description": "Comfort walking shoes with lightweight cushioning.",
       "reviews": ["Super comfy!", "Great for daily wear.", "Light and breathable."]
     },
@@ -103,7 +103,7 @@
       "name": "Timberland 6-Inch Boot",
       "brand": "Timberland",
       "price": 200,
-      "image": "https://via.placeholder.com/300x300?text=Timberland+6-Inch+Boot",
+      "image": "https://images-cdn.ubuy.co.in/661d6df3d6d54e17b8385a12-timberland-10061-6-inch-premium.jpg",
       "description": "Classic waterproof boots with rugged durability.",
       "reviews": ["Very durable!", "Great for hiking.", "Stylish and tough."]
     },
@@ -112,7 +112,7 @@
       "name": "Crocs Classic Clog",
       "brand": "Crocs",
       "price": 50,
-      "image": "https://via.placeholder.com/300x300?text=Crocs+Classic+Clog",
+      "image": "https://www.crocs.in/media/catalog/product/1/0/10001_2y2_alt100.jpeg?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width=",
       "description": "Iconic clogs with lightweight comfort and ventilation.",
       "reviews": ["Perfect for summer!", "Very comfy.", "Easy to clean."]
     },
@@ -121,7 +121,7 @@
       "name": "Birkenstock Arizona",
       "brand": "Birkenstock",
       "price": 100,
-      "image": "https://via.placeholder.com/300x300?text=Birkenstock+Arizona",
+      "image": "https://www.birkenstock.in/cdn/shop/files/1028151.jpg",
       "description": "Classic sandals with contoured footbed for superior support.",
       "reviews": ["Excellent arch support!", "Very durable.", "Stylish and comfy."]
     },
@@ -130,7 +130,7 @@
       "name": "Columbia Hiking Boots",
       "brand": "Columbia",
       "price": 130,
-      "image": "https://via.placeholder.com/300x300?text=Columbia+Hiking+Boots",
+      "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/l/l/g/-original-imah49fzkdfva6cp.jpeg?q=90&crop=false",
       "description": "Rugged boots designed for outdoor adventures and hiking.",
       "reviews": ["Great for trails!", "Very durable.", "Comfortable fit."]
     },
@@ -139,7 +139,7 @@
         "name": "Michael Kors Tote Bag",
         "brand": "Michael Kors",
         "price": 250,
-        "image": "https://via.placeholder.com/300x300?text=Michael+Kors+Tote+Bag",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZyrA-G1JSX4yiwPy-IGL0WlAnj1e_QIv-2g&s",
         "description": "Spacious and elegant tote bag, perfect for daily use or work.",
         "reviews": ["Stylish and spacious!", "Great quality.", "Perfect for office."]
       },
@@ -148,7 +148,7 @@
         "name": "Fossil Leather Wallet",
         "brand": "Fossil",
         "price": 80,
-        "image": "https://via.placeholder.com/300x300?text=Fossil+Leather+Wallet",
+        "image": "https://fossil.scene7.com/is/image/FossilPartners/ML3684201_main?$sfcc_fos_hi-res$",
         "description": "Classic leather wallet with multiple compartments and card slots.",
         "reviews": ["Sleek design!", "Durable leather.", "Compact and stylish."]
       },
@@ -157,7 +157,7 @@
         "name": "Samsonite Laptop Backpack",
         "brand": "Samsonite",
         "price": 120,
-        "image": "https://via.placeholder.com/300x300?text=Samsonite+Laptop+Backpack",
+        "image": "https://www.samsonite.in/dw/image/v2/AAWQ_PRD/on/demandware.static/-/Sites-Samsonite/default/dw58914e84/images/holborn-slim-backpack/hi-res/153070_1408_hi-res_FRONT34_1.jpg?sw=500&sh=750",
         "description": "Durable laptop backpack with padded compartments and USB port.",
         "reviews": ["Spacious and sturdy!", "Great for travel.", "Comfortable fit."]
       },
@@ -166,7 +166,7 @@
         "name": "Ray-Ban Aviator Sunglasses",
         "brand": "Ray-Ban",
         "price": 150,
-        "image": "https://via.placeholder.com/300x300?text=Ray-Ban+Aviator+Sunglasses",
+        "image": "https://d3995ea24pmi7m.cloudfront.net/media/catalog/product/r/b/rb3432i00159_3_lar.jpg",
         "description": "Classic aviator sunglasses with UV protection and sleek design.",
         "reviews": ["Perfect fit!", "Stylish and trendy.", "Great sun protection."]
       },
@@ -175,7 +175,7 @@
         "name": "Gucci Leather Belt",
         "brand": "Gucci",
         "price": 350,
-        "image": "https://via.placeholder.com/300x300?text=Gucci+Leather+Belt",
+        "image": "https://5.imimg.com/data5/IOS/Default/2020/8/ZP/HP/KS/111352167/product-jpeg.png",
         "description": "Luxury leather belt with iconic GG buckle design.",
         "reviews": ["Premium quality!", "Looks classy.", "Great for formal wear."]
       },
@@ -184,7 +184,7 @@
         "name": "Apple AirPods Pro",
         "brand": "Apple",
         "price": 249,
-        "image": "https://via.placeholder.com/300x300?text=Apple+AirPods+Pro",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/airpods-pro-2-hero-select-202409_FMT_WHH?wid=750&hei=556&fmt=jpeg&qlt=90&.v=1724041668836",
         "description": "Wireless earbuds with active noise cancellation and superior sound.",
         "reviews": ["Excellent sound!", "Great noise cancellation.", "Perfect fit."]
       },
@@ -193,7 +193,7 @@
         "name": "Casio G-Shock Watch",
         "brand": "Casio",
         "price": 180,
-        "image": "https://via.placeholder.com/300x300?text=Casio+G-Shock+Watch",
+        "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/G/GA/GA1/GA-110-1B/assets/GA-110-1B_Seq1.png.transform/main-visual-sp/image.png",
         "description": "Durable and stylish watch with shock resistance and water resistance.",
         "reviews": ["Rugged and stylish!", "Perfect for sports.", "Highly durable."]
       },
@@ -202,7 +202,7 @@
         "name": "Herschel Supply Co. Duffle Bag",
         "brand": "Herschel",
         "price": 110,
-        "image": "https://via.placeholder.com/300x300?text=Herschel+Duffle+Bag",
+        "image": "https://m.media-amazon.com/images/I/717GQJEXloL._SL1500_.jpg",
         "description": "Stylish duffle bag with spacious compartments for travel and gym.",
         "reviews": ["Great for weekend trips!", "Spacious and durable.", "Stylish design."]
       },
@@ -211,7 +211,7 @@
         "name": "Daniel Wellington Bracelet",
         "brand": "Daniel Wellington",
         "price": 75,
-        "image": "https://via.placeholder.com/300x300?text=Daniel+Wellington+Bracelet",
+        "image": "https://in.danielwellington.com/cdn/shop/products/fgjgwwd0ks2zfgs7ukku.png?v=1682405124&width=1500",
         "description": "Minimalist bracelet with elegant design, perfect for everyday wear.",
         "reviews": ["Elegant and simple!", "Great quality.", "Perfect fit."]
       },
@@ -220,7 +220,7 @@
         "name": "Tumi Travel Organizer",
         "brand": "Tumi",
         "price": 90,
-        "image": "https://via.placeholder.com/300x300?text=Tumi+Travel+Organizer",
+        "image": "https://cdn.pixelspray.io/v2/black-bread-289bfa/8SgLvx/original/tumi-product/410391662001/665/410391662001_3_9736.webp",
         "description": "Compact and efficient travel organizer for passports and essentials.",
         "reviews": ["Perfect for travel!", "Keeps everything organized.", "High quality."]
       }

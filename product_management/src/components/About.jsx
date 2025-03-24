@@ -5,8 +5,6 @@ const AboutPage = () => {
   return (
     <div className="min-h-screen bg-gray-50 py-16">
       <div className="container mx-auto px-6 lg:px-20">        
-
-        {/* ✅ Heading Section */}
         <div className="text-center mb-16">
           <h1 className="text-5xl font-extrabold text-gray-800 mb-4">🛒 About Us</h1>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
@@ -15,8 +13,6 @@ const AboutPage = () => {
             of high-quality items at competitive prices.
           </p>
         </div>
-
-        {/* ✅ Our Mission & Values Section */}
         <div className="bg-white shadow-md rounded-lg p-12 mb-16">
           <h2 className="text-4xl font-bold text-gray-800 mb-6">🚀 Our Mission & Values</h2>
           <p className="text-lg text-gray-700 leading-relaxed">
@@ -47,7 +43,6 @@ const AboutPage = () => {
           </div>
         </div>
 
-        {/* ✅ What We Offer Section */}
         <div className="bg-gray-100 rounded-lg shadow-md p-12 mb-16">
           <h2 className="text-4xl font-bold text-gray-800 mb-6">🔥 What We Offer</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
@@ -79,7 +74,6 @@ const AboutPage = () => {
           </div>
         </div>
 
-        {/* ✅ Customer Reviews Section */}
         <div className="bg-white shadow-md rounded-lg p-12 mb-16">
           <h2 className="text-4xl font-bold text-gray-800 mb-6">💬 Customer Reviews</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
@@ -108,7 +102,6 @@ const AboutPage = () => {
           </div>
         </div>
 
-        {/* ✅ Contact Section */}
         <div className="bg-gray-100 rounded-lg shadow-md p-12">
           <h2 className="text-4xl font-bold text-gray-800 mb-6">📞 Contact Us</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">

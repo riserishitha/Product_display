@@ -1,23 +1,22 @@
-const express = require("express");
+const express = require('express');
+const dotenv=require('dotenv');
+const mongoose = require('mongoose');
 const app = express();
-// const route = require("./routes")
-// const {connectdb,model} = require("./mongo");
-const cors = require("cors")
-const path = require("path");
-app.use(cors())
-function getted(){
-    return model.db.readyState === 1
-}
-// app.use("/",route)
-app.get("/ping", (req, res) => {
-    const ret = getted();
-    const cra = ret?"successfully":"not successful";
-    res.send(cra)
+
+dotenv.config();
+const PORT=process.env.PORT;
+const DATABASE_URL=process.env.DATABASE_URL;
+
+mongoose.connect(DATABASE_URL)
+  .then(() => console.log('✅ MongoDB connected successfully!'))
+  .catch((err) => console.error('❌ MongoDB connection failed:', err))
+
+app.use(express.json());
+
+app.get('/', (req, res) => {
+  res.send('Hello! Server is running 🚀');
 });
-// app.get("/test-results", (req, res) => {
-//     res.sendFile(path.join(__dirname, "test-results.json"));
-//   });
-app.listen(5000, async() => {
-    // await connectdb(); 
-    console.log("This is Express.js file.");
+
+app.listen(PORT, () => {
+  console.log(`Server is listening on http://localhost:${PORT}`);
 });
