@@ -41,7 +41,6 @@ const QuickViewModal = ({ product, onClose }) => {
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-          {/* Left Section: Image, Name, Price */}
           <div className="flex flex-col items-center">
             <img
               src={product.image}
@@ -54,7 +53,6 @@ const QuickViewModal = ({ product, onClose }) => {
             </div>
           </div>
 
-          {/* Right Section: Description, Reviews, and Add to Cart */}
           <div className="flex flex-col justify-between">
             <div>
               <p className="text-gray-700 text-sm">{product.description}</p>

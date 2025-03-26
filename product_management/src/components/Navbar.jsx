@@ -32,7 +32,7 @@ const Navbar = () => {
       const userCart = JSON.parse(localStorage.getItem(`cart_${currentUser.email}`)) || [];
       setCart(userCart);
     } else {
-      setCart([]);  
+      setCart([]);
     }
   }, []);
 
@@ -111,6 +111,10 @@ const Navbar = () => {
     }, 2000);
   };
 
+  const handleScannerClick = () => {
+    navigate("/barcode-scanner");  
+  };
+
   return (
     <>
       <nav className="bg-white text-gray-800 py-2 shadow-md w-full fixed top-0 left-0 z-50">
@@ -164,7 +168,7 @@ const Navbar = () => {
             </Link>
 
             <button
-              onClick={() => toast.info("Scanner not available!")}
+              onClick={handleScannerClick}
               className="flex items-center border-2 border-blue-500 text-blue-500 px-3 py-1 rounded-full shadow-md hover:border-blue-700 hover:text-blue-700 transition text-sm"
             >
               <FiCamera className="mr-1" />
