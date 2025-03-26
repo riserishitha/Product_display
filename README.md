@@ -97,3 +97,6 @@ Using useContext for state management simplified handling cart items globally wi
 ### Barcode Scanner Integration:
 
 Ensuring the scanner works seamlessly across different devices and browsers required testing and fine-tuning.
+
+## Deployed Link :
+**https://jovial-granita-a62975.netlify.app/**
